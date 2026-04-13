@@ -13,7 +13,6 @@ It allows users to translate text from one language to another easily.
 - Python
 - Flask
 - HTML/CSS
-- (Optional: API like Google Translate / NLP library if used)
 
 ## 🚀 How to Run
 1. Install required libraries:
